@@ -14,9 +14,9 @@ const Hero = (props) => (
         </SectionTitle>
 
         <SectionText>
-          Développeur Web Full Stack <br /> UX/UI Design
+          Hey, moi c'est Quentin, un développeur Web Full Stack passionné par les nouvelles technologies, l'informatique ainsi que le monde de demain. Mon but étant de pouvoir y contribuer et y laisser ma pierre à l'édifice, en échangeant et transmettant ce qui m'anime au quotidien.
         </SectionText>
-        <Button onClick={() => window.location = 'https://google.com'}>En Savoir Plus</Button>
+        <Button onClick={() => window.location = '#about'}>En Savoir Plus</Button>
       </LeftSection>
     </Section>
   </div>

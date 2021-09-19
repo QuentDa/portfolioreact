@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2015, text: 'BTS Management des Unités Commerciales', },
+  { year: 2017, text: 'École Web-Start Développeur Web', },
+  { year: 2018, text: "BEAUCOUP de projets d'études et de cas d'entreprises", },
+  { year: 2019, text: 'Conseiller en Communication SEO/SEA chez Linkeo', },
+  { year: "2021 à aujourd'hui", text: 'Spécialisation Développeur Front-End avec Openclassroom en alternance', },
 ];
