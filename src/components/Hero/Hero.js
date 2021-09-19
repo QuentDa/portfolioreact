@@ -9,12 +9,12 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Bienvenue Sur <br />
-          Mon Portfolio
+          Quentin <br />
+          De Andrade
         </SectionTitle>
 
         <SectionText>
-          Je suis un jeune Développeur Web autodidacte apprenant de jour en jour à se développer ainsi qu'à mettre à profit ses compétences pour un résultat autant satisfaisant que convaincant.
+          Développeur Web Full Stack <br /> UX/UI Design
         </SectionText>
         <Button onClick={() => window.location = 'https://google.com'}>En Savoir Plus</Button>
       </LeftSection>
